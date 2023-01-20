@@ -8,7 +8,7 @@
 
 #### Wip
 
-I'm currently not working on anything, at least I haven't updated my readmd on anything worth mentioning. ✅
+"**OpenText**" a small text editor in HTML and JavaScript to add formatting to text files in a simple way (Personal project for practice) ✅
 
 #### Featured
 
