@@ -1,10 +1,8 @@
-[//]: <> (Lmao hi)
+[//]: <> (hi)
 
 ![Header](https://github.com/NweoWasTaken/NweoWasTaken/blob/main/header.png)
 
-### Who I'm?
-
-Idk, 20 fur teen sometimes I just do silly coding but for now no ambitious projects, below will be things I use, have done, and am doing, social things and other things I liked from [Shields.io](https://shields.io/) lol 
+20 fur teen sometimes I just do silly coding but for now no ambitious projects, below will be things I use, have done, and am doing, social things and other things I liked from [Shields.io](https://shields.io/) lol 
 
 ### Projects
 
@@ -14,7 +12,7 @@ I'm currently not working on anything, at least I haven't updated my readmd on a
 
 #### Featured
 
-Come back later
+- [Website repo](https://github.com/NweoWasTaken/Website) ✨
 
 ### GitHub Stats and more
 
@@ -22,9 +20,9 @@ Come back later
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nweowastaken&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### 
-
 ### Social media
+
+[![MyWeb](https://custom-icon-badges.demolab.com/badge/Netlify-https://nwst.netlify.app/-blue.svg?logo=netlify&logoColor=white)](https://nwst.netlify.app/) 
 
 [![Discord](https://img.shields.io/badge/Discord-NweoWasTaken%231341-white?logo=discord)](https://lookup.guru/1059066067571458110)
 
@@ -35,7 +33,3 @@ Come back later
 [![Steam](https://img.shields.io/badge/Steam-NweoWasTaken-white?logo=steam)](https://steamcommunity.com/profiles/76561199466793013)
 
 [![Reddit](https://img.shields.io/badge/Reddit-u/NweoWasTaken-white?logo=reddit)](https://www.reddit.com/u/NweoWasTaken)
-
-> Wip!!!
-
-[![MyWeb](https://custom-icon-badges.demolab.com/badge/Neocities-https://nweo.neocities.org/-blue.svg?logo=neocities&logoColor=white)](https://nweo.neocities.org/)
