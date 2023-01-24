@@ -8,7 +8,7 @@
 
 #### Wip
 
-"**OpenText**" a small text editor in HTML and JavaScript to add formatting to text files in a simple way (Personal project for practice) ✅
+"**GD Backup**" a batch script to make a backup of Geometry Dash files with some features ✅
 
 #### Featured
 
@@ -19,6 +19,9 @@
 ![Nweo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nweowastaken&show_icons=true&theme=transparent&count_private=true&bg_color=30,969df7,ffffff&title_color=000&text_color=000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nweowastaken&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/NweoWasTaken?max_languages=5&bg_color=000000&text_color=ffffff)
+
 
 ### Social media
 
