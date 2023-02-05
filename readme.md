@@ -2,7 +2,7 @@
 
 ![Header](https://github.com/NweoWasTaken/NweoWasTaken/blob/main/header.png)
 
-20 fur teen sometimes I just do silly coding but for now no ambitious projects, below will be things I use, have done, and am doing, social things and other things I liked from [Shields.io](https://shields.io/) lol 
+Fur teen. Sometimes I just do silly coding but for now no ambitious projects, below will be things I use, have done, and am doing, social things and other things I liked from [Shields.io](https://shields.io/) lol 
 
 ### Projects
 
@@ -12,7 +12,8 @@
 
 #### Featured
 
-- [Website repo](https://github.com/NweoWasTaken/Website) ✨
+- [GDArchiver](https://github.com/NweoWasTaken/GDArchiver) ✨
+- [Website repo](https://github.com/NweoWasTaken/Website) 
 
 ### GitHub Stats and more
 
