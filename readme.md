@@ -13,7 +13,6 @@ Fur teen. Sometimes I just do silly coding but for now no ambitious projects, be
 #### Featured
 
 - [GDArchiver](https://github.com/NweoWasTaken/GDArchiver) ✨
-- [Website repo](https://github.com/NweoWasTaken/Website) 
 
 ### GitHub Stats and more
 
