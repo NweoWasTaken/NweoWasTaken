@@ -2,17 +2,17 @@
 
 ![Header](https://github.com/NweoWasTaken/NweoWasTaken/blob/main/header.png)
 
-Fur teen. Sometimes I just do silly coding but for now no ambitious projects, below will be things I use, have done, and am doing, social things and other things I liked from [Shields.io](https://shields.io/) lol 
+Fur teen. Sometimes I just do silly coding but for now no ambitious projects.
 
 ### Projects
 
 #### Wip
 
-"**GD Backup**" a batch script to make a backup of Geometry Dash files with some features ✅
+Nothing at this time ✅
 
 #### Featured
 
-- [GDArchiver](https://github.com/NweoWasTaken/GDArchiver) ✨
+- []() Nothing at this time ✨
 
 ### GitHub Stats and more
 
